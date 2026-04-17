@@ -36,5 +36,6 @@ tar -xpf alpine-minirootfs-*.tar.gz -C rootfs
 - container.go → container execution
 
 ## Team Members
-Vennela Shakthi VP
-Yuvraj Pateria
+SAANVI MAHARANA
+RAMALAKSHMI M N
+PRIYANKA B M
